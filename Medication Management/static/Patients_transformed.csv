@@ -1,0 +1,107 @@
+,Id,BIRTHDATE,RACE,ETHNICITY,GENDER,BIRTHPLACE,ADDRESS,CITY,STATE,COUNTY,HEALTHCARE_EXPENSES,HEALTHCARE_COVERAGE,INCOME,BIRTHPLACE_COUNTRY,AGE
+0,bad5a231-3709-952a-cf44-f8d6a52cc214,1961-11-15,white,nonhispanic,M,North Pembroke  Massachusetts  US,544 Morissette Esplanade Unit 30,Tisbury,Massachusetts,Dukes County,976441.28,521994.74,118047,US,63
+1,2bd4d47d-5e00-3b67-cdd7-03f4b811b711,1962-07-02,white,nonhispanic,F,North Andover  Massachusetts  US,289 Powlowski Fort Apt 42,Newton,Massachusetts,Middlesex County,494686.66,9394.81,62332,US,62
+2,74ad71cb-f64d-efce-02c9-ae3bc917c4a2,1994-07-24,white,hispanic,F,Portsmouth  Saint John Parish  DM,242 Jerde Street,West Brookfield,Massachusetts,Worcester County,160028.37,169911.73,95344,DM,30
+3,8d2a62f2-d630-6288-93ee-0fea3f859560,1960-06-08,white,nonhispanic,F,Danvers  Massachusetts  US,691 Jacobson Quay,Stoneham,Massachusetts,Middlesex County,134469.8,1015294.53,26516,US,64
+4,ba459391-501f-22f5-3446-7defd52e5fab,1962-09-02,white,nonhispanic,F,Winchester  Massachusetts  US,1061 Mayer Road,Boston,Massachusetts,Suffolk County,65678.91,47471.44,58212,US,62
+5,3d46defd-463f-a34b-4551-f9bbe96575bd,1963-12-08,white,nonhispanic,M,Rockland  Massachusetts  US,376 Fadel Gardens Suite 1,North Andover,Massachusetts,Essex County,7617.33,190525.37,18258,US,61
+6,37c177ea-4398-fb7a-29fa-70eb3d673876,1994-01-27,asian,nonhispanic,F,Franklin  Massachusetts  US,160 Fadel Crossroad Apt 65,Wareham,Massachusetts,Plymouth County,12895.15,659951.61,17382,US,31
+7,12696753-a126-88f4-da66-a87c70d2cad7,2003-11-12,white,nonhispanic,F,Worcester  Massachusetts  US,749 Labadie Road,Worcester,Massachusetts,Worcester County,5238.06,253645.3,8752,US,21
+8,30a6452c-4297-a1ac-977a-6a23237c7b46,1994-02-06,white,nonhispanic,M,Boston  Massachusetts  US,811 Kihn Viaduct,Braintree,Massachusetts,Norfolk County,56904.96,18019.99,100511,US,31
+9,0fef2411-21f0-a269-82fb-c42b55471405,2019-07-27,white,nonhispanic,M,Brockton  Massachusetts  US,766 Grant Loaf Unit 15,Groveland,Massachusetts,Essex County,18500.02,5493.57,52159,US,5
+10,50ca7edb-0dee-35e6-5d8f-66fbcb0b37c1,1948-05-28,white,nonhispanic,M,Boston  Massachusetts  US,757 Lockman Annex Apt 10,Georgetown,Massachusetts,Essex County,242013.44,322768.97,35255,US,76
+11,e335de09-0994-4111-3c15-6edcc17ae4bc,2005-04-25,white,nonhispanic,F,Boston  Massachusetts  US,493 Cruickshank Mission,Holliston,Massachusetts,Middlesex County,64178.99,5906.14,198522,US,19
+12,4f7a6432-3814-be2f-eb8a-1db4fe90e12d,2018-03-13,white,nonhispanic,F,North Lakeville  Massachusetts  US,123 Ziemann Lane,Dracut,Massachusetts,Middlesex County,14393.25,539.02,138174,US,7
+13,3e96ffd1-e286-f5ac-1606-539e37c7c46a,1962-01-02,white,nonhispanic,M,Andover  Massachusetts  US,791 Lakin Brook Apt 87,Yarmouth Port,Massachusetts,Barnstable County,173434.41,106558.23,36061,US,63
+14,ec1a6cad-8825-7b5c-4e14-257c696d5f11,2019-04-18,white,nonhispanic,M,Plymouth  Massachusetts  US,866 Kulas Harbor,Cambridge,Massachusetts,Middlesex County,14478.23,693.39,75767,US,5
+15,d8638449-e632-1ac7-6695-eb60c8773813,2013-08-18,white,nonhispanic,F,Concord  Massachusetts  US,1057 Carter Route Apt 38,Needham,Massachusetts,Norfolk County,14195.99,7958.3,80475,US,11
+16,898a6256-7ffb-dbe2-e24d-12fda2fedcfd,1966-06-23,white,nonhispanic,F,Oxford  Massachusetts  US,962 Stiedemann Vista,Aquinnah,Massachusetts,Dukes County,343608.18,884243.46,178323,US,58
+17,36ecae05-0060-b555-716f-303a8c34e914,2009-01-22,asian,nonhispanic,F,Ahmedabad  Gujarat  IN,565 Kreiger Forge,Boston,Massachusetts,Suffolk County,2460.22,37975.76,7873,IN,16
+18,17e0bdef-4558-cc1d-2d44-90868cad827b,1983-11-14,white,nonhispanic,F,Westport  Massachusetts  US,370 Cremin Course,Walpole,Massachusetts,Norfolk County,143050.4,710376.2,742063,US,41
+19,32d7e67e-d2f7-8e45-a332-a763e004976b,1996-06-30,white,nonhispanic,M,Rochester  Massachusetts  US,691 Beier Row,Mansfield,Massachusetts,Bristol County,94905.92,3414.68,124698,US,28
+20,bd277bc3-11ad-a0bd-7057-4ec1b705610f,1999-08-21,white,nonhispanic,F,Webster  Massachusetts  US,967 Hamill Track,Watertown,Massachusetts,Middlesex County,122824.89,230741.1,83325,US,25
+21,d426334c-a982-3a31-7e0f-ca3c7fe01310,1960-05-07,white,hispanic,F,Santiago de los Caballeros  Santiago  DO,977 White Row,Beverly,Massachusetts,Essex County,955755.57,1280069.64,61016,DO,64
+22,7179458e-d6e3-c723-2530-d4acfe1c2668,2008-12-21,white,nonhispanic,M,Spencer  Massachusetts  US,548 Heller Lane,Mattapoisett,Massachusetts,Plymouth County,45645.06,6154.94,133816,US,16
+23,d5635f98-2461-70a1-5916-f854efa27fc0,1914-03-03,white,nonhispanic,F,Milford  Massachusetts  US,174 O'Keefe Way Unit 17,Blackstone,Massachusetts,Worcester County,934784.64,432468.96,97499,US,111
+24,bcd4d6cd-0c79-a19e-5b9e-64816e3fd72d,1955-10-26,white,hispanic,M,Ponce  Puerto Rico  PR,514 Gorczany Dam,Agawam,Massachusetts,Hampden County,13773.19,300566.52,7361,PR,69
+25,c1ce8dfc-3c0d-de97-ce0e-5dc0460da340,1997-05-12,black,nonhispanic,M,Boston  Massachusetts  US,746 Wisozk Row,Hudson,Massachusetts,Middlesex County,13354.75,290590.06,20158,US,27
+26,98cbb02b-c16a-60e4-1ff0-37c0e45e0e9f,2011-09-30,white,nonhispanic,M,Boston  Massachusetts  US,689 Bailey Plaza Apt 88,Brockton,Massachusetts,Plymouth County,3895.86,285495.2,8615,US,13
+27,d1622e8b-d26b-ec81-ffcb-ec4bf2af385b,1951-11-22,asian,nonhispanic,F,Fitchburg  Massachusetts  US,574 Stanton Stravenue,Boston,Massachusetts,Suffolk County,100734.69,1441488.68,92537,US,73
+28,f339a5f7-0b09-3072-2b01-7c8e8ca2c1fc,1951-11-22,asian,nonhispanic,F,Millis-Clicquot  Massachusetts  US,698 Hagenes Annex,Boston,Massachusetts,Suffolk County,655129.7,381212.81,92537,US,73
+29,f20c093a-ec77-3358-b0a5-3c298f82ea1f,1987-02-20,white,hispanic,F,San Salvador  El Salvador  SV,150 Wyman Brook,Canton,Massachusetts,Norfolk County,209212.74,560210.84,135334,SV,38
+30,97df0b48-a67b-9b95-31c0-99bd722fd28e,2000-07-07,white,nonhispanic,F,Dighton  Massachusetts  US,475 Murazik Esplanade,Amherst,Massachusetts,Hampshire County,104968.25,139848.33,56444,US,24
+31,4c9a07e5-1e1c-00a5-2841-2b1e0fce61e3,2023-03-01,white,nonhispanic,M,Attleboro  Massachusetts  US,958 Block Bridge,Adams,Massachusetts,Berkshire County,527.54,8988.43,10135,US,2
+32,9e9b5929-6880-fd20-f386-026109e24028,1975-12-16,white,nonhispanic,F,Barre  Massachusetts  US,354 Jakubowski Mall,West Yarmouth,Massachusetts,Barnstable County,15637.97,1009957.09,16969,US,49
+33,488e5395-0a2a-f2da-0389-e0e8062b009d,1962-09-02,white,nonhispanic,F,Fairhaven  Massachusetts  US,424 Cartwright Well Unit 68,Boston,Massachusetts,Suffolk County,849950.23,232590.14,58212,US,62
+34,cb1b46a1-9cb5-1187-ccc5-9fb7b98aa957,1982-12-09,white,nonhispanic,M,Springfield  Massachusetts  US,623 Crooks Street,Sharon,Massachusetts,Norfolk County,302685.62,87202.01,63727,US,42
+35,4804956b-3c8f-baa7-9a42-87518e486055,1991-08-13,white,nonhispanic,F,Lowell  Massachusetts  US,946 Bashirian Frontage road,Billerica,Massachusetts,Middlesex County,175538.3,681949.23,29192,US,33
+36,99d3b9b2-46c1-ef9e-da70-81ac3d365f52,1939-06-16,white,nonhispanic,F,Hanover  Massachusetts  US,203 Marvin Parade Suite 80,North Westport,Massachusetts,Bristol County,23577.54,1106488.24,10682,US,85
+37,be3fe2c4-52da-02bb-e656-00e303e48a42,1955-03-21,black,nonhispanic,M,North Attleborough  Massachusetts  US,981 Towne Bypass,Needham,Massachusetts,Norfolk County,174408.44,789328.63,816851,US,70
+38,65016a46-14f4-d19a-f82f-10299aba4c14,1956-09-20,white,nonhispanic,F,Oak Bluffs  Massachusetts  US,524 Brekke Promenade,Lowell,Massachusetts,Middlesex County,592752.49,332554.01,69926,US,68
+39,27eb7bda-3896-d2f9-47a7-4d739283e770,2008-01-08,white,nonhispanic,M,Woburn  Massachusetts  US,384 Weissnat Rue Unit 43,Somerville,Massachusetts,Middlesex County,44973.24,0.0,762068,US,17
+40,14dc5e57-1b84-3305-c042-86c9fc7e4996,1983-09-03,asian,nonhispanic,F,Marshfield  Massachusetts  US,295 Mills Alley Unit 71,Lynn,Massachusetts,Essex County,306535.33,379288.43,72413,US,41
+41,fb164202-4e38-04a0-470a-b7229db13c04,1969-12-09,white,hispanic,M,Guatemala City  Guatemala  GT,198 Baumbach Glen,Lowell,Massachusetts,Middlesex County,179297.4,77976.38,39370,GT,55
+42,9933f4bd-106c-b41d-467a-94ec42baeb81,1990-12-28,white,nonhispanic,M,Marblehead  Massachusetts  US,310 Toy Arcade Unit 47,Wilmington,Massachusetts,Middlesex County,65711.0,1941.56,92885,US,34
+43,9e24368b-f85b-f38f-ae0b-db191e224335,1964-03-14,white,nonhispanic,F,Lynn  Massachusetts  US,631 Bartoletti Estate,Beverly,Massachusetts,Essex County,91358.12,614267.7,25887,US,61
+44,0689b59f-0721-5384-9294-def3c13db427,1995-09-07,white,hispanic,M,Santiago de los Caballeros  Santiago  DO,154 Torp Lock,Chicopee,Massachusetts,Hampden County,68232.69,0.0,82840,DO,29
+45,18d9f8cb-b3b2-5e9f-4c62-5a82a90c0141,2012-09-15,other,nonhispanic,M,Lynn  Massachusetts  US,516 Koch Crossing,Lowell,Massachusetts,Middlesex County,35605.63,0.0,61926,US,12
+46,6c602779-9775-f512-2724-fa4e0d0788f5,1944-05-29,white,nonhispanic,M,Brookline  Massachusetts  US,984 Roberts Ramp,Medford,Massachusetts,Middlesex County,175672.72,233959.98,179090,US,80
+47,355f70c7-b1f4-b1db-8843-56b8b193a30c,1999-03-08,white,hispanic,F,Santo Domingo  National District  DO,221 Witting Spur Suite 88,Reading,Massachusetts,Middlesex County,89732.66,405470.53,116503,DO,26
+48,699d2e19-7af4-de30-b430-ae854f5f690d,2003-07-11,white,nonhispanic,M,Belchertown  Massachusetts  US,521 Borer Street,Winchester,Massachusetts,Middlesex County,56148.86,119973.56,64743,US,21
+49,4f159375-4ee4-36ab-b464-6d38f6ff2dae,1950-04-28,white,nonhispanic,M,Scituate  Massachusetts  US,486 Greenfelder Trace,Groveland,Massachusetts,Essex County,260074.13,787575.59,189277,US,75
+50,3648fb36-1cd1-3641-0b1c-1f00d1e7e7de,2006-07-02,white,hispanic,F,Maynard  Massachusetts  US,963 Senger Fort,Haverhill,Massachusetts,Essex County,52933.16,11941.44,77756,US,18
+51,778f10bc-09e5-8e86-64e8-bffa36d47246,1980-04-27,white,nonhispanic,F,Framingham  Massachusetts  US,342 Feest Bridge,Taunton,Massachusetts,Bristol County,243499.48,862721.48,24026,US,44
+52,33828cb4-a2f6-3a66-fe02-c990fa88af61,1974-12-06,white,nonhispanic,F,Wayland  Massachusetts  US,627 Howe Overpass,Dartmouth,Massachusetts,Bristol County,248786.39,732131.46,127119,US,50
+53,da7b1f55-c782-544f-ba8c-fe69d519dc85,2008-10-04,white,nonhispanic,F,Grafton  Massachusetts  US,852 Schaefer Rapid,Shrewsbury,Massachusetts,Worcester County,75452.19,422515.93,188023,US,16
+54,f3884e8a-8b36-1e93-66dd-e910dfab2ef5,1978-08-24,white,nonhispanic,M,Tisbury  Massachusetts  US,725 Legros Underpass,Northbridge,Massachusetts,Worcester County,599556.8,129273.89,35860,US,46
+55,dc323bce-e583-d903-303e-9c865bc87e67,2012-09-02,white,nonhispanic,M,Plymouth  Massachusetts  US,467 Collier Stravenue Unit 12,Attleboro,Massachusetts,Bristol County,45972.75,0.0,71169,US,12
+56,5279920f-e303-9dca-844d-82ed5485f5da,1981-06-24,asian,nonhispanic,F,Waltham  Massachusetts  US,682 Flatley Alley Unit 46,Malden,Massachusetts,Middlesex County,346413.62,441614.2,92007,US,43
+57,13cc1678-474c-7932-a719-c64f3a7adc9f,2022-09-21,white,nonhispanic,M,Haverhill  Massachusetts  US,220 Sporer Crossing,Middleton,Massachusetts,Essex County,10394.18,4560.98,170535,US,2
+58,116916b1-0b2b-e099-1b72-e8935f3bea0f,2007-02-24,white,nonhispanic,M,Randolph  Massachusetts  US,284 Erdman Grove,Winthrop,Massachusetts,Suffolk County,33278.97,34825.95,148206,US,18
+59,81df73ed-e648-6a5d-22af-7f24d5fdb4cb,1976-12-11,white,nonhispanic,F,Quincy  Massachusetts  US,298 Russel Track,Chelmsford,Massachusetts,Middlesex County,804184.27,164485.47,112954,US,48
+60,5a3a689b-77d6-6c1a-7a86-a9c1b9b6847c,1977-01-13,white,hispanic,F,Bayamon  Puerto Rico  PR,234 Considine Trafficway,Wales,Massachusetts,Hampden County,442640.29,289687.14,96411,PR,48
+61,c055bc9e-ce1a-b116-287a-be9162e35a2f,1999-02-24,black,nonhispanic,F,Salem  Massachusetts  US,798 Stanton Esplanade,Boston,Massachusetts,Suffolk County,143573.39,331662.12,119795,US,26
+62,3c7e37b0-c610-bc9a-d75a-f782e5dc7598,2023-01-18,white,nonhispanic,F,Boston  Massachusetts  US,752 Simonis Gate Suite 16,Holyoke,Massachusetts,Hampden County,4871.79,0.0,545255,US,2
+63,24a8f8bc-f502-5f0e-0dd7-27d64a15ed9e,2010-08-05,white,nonhispanic,M,Peabody  Massachusetts  US,459 Schaefer Brook Unit 18,Southborough,Massachusetts,Worcester County,19307.63,254188.72,136997,US,14
+64,60fc807a-de74-7722-b431-a63362670472,1984-03-30,white,nonhispanic,M,Amherst  Massachusetts  US,347 Hintz Landing Unit 87,Somerville,Massachusetts,Middlesex County,8531.67,86526.34,18374,US,41
+65,8a25981a-eb31-cb7c-047d-8249f6111a3e,1996-04-23,asian,nonhispanic,M,South Deerfield  Massachusetts  US,118 Dare Trace Suite 55,Middleborough Center,Massachusetts,Plymouth County,91153.02,169109.9,33949,US,28
+66,b0f6cc39-6dfd-4ac2-84c7-e7478723d563,1969-06-26,white,hispanic,F,Bayamon  Puerto Rico  PR,620 Flatley Corner,Springfield,Massachusetts,Hampden County,349405.27,153655.72,44636,PR,55
+67,cca2c7f0-a2aa-94e5-ccea-cb78a7d38652,1972-01-25,white,nonhispanic,F,Chelmsford  Massachusetts  US,756 Schaefer Row Apt 84,Yarmouth,Massachusetts,Barnstable County,119874.42,921478.76,124775,US,53
+68,34a4dcc4-35fb-6ad5-ab98-be285c586a4f,1968-08-06,white,nonhispanic,M,Chicopee  Massachusetts  US,975 Pfannerstill Throughway,Braintree,Massachusetts,Norfolk County,124024.12,1075.06,49737,US,56
+69,c1acd7ba-dacf-36d2-6010-db8934400000,1968-08-06,white,nonhispanic,M,Methuen  Massachusetts  US,848 Ebert Knoll Unit 7,Braintree,Massachusetts,Norfolk County,175817.63,55473.97,49737,US,56
+70,b05fba34-1719-c0de-ac25-16e65de3d26a,2014-12-03,white,nonhispanic,M,Fall River  Massachusetts  US,442 Ondricka Bypass Unit 32,Pinehurst,Massachusetts,Middlesex County,10815.88,6781.18,110733,US,10
+71,a0b3ad14-4bd2-3abd-b02e-9116247d9fea,1988-06-17,white,hispanic,M,Westfield  Massachusetts  US,738 Medhurst Common Apt 1,Brewster,Massachusetts,Barnstable County,52633.05,0.0,92411,US,36
+72,916b1ac8-56c8-ec1b-3b9a-721336a74912,1953-05-10,white,nonhispanic,F,Lexington  Massachusetts  US,146 Rowe Village Suite 3,New Bedford,Massachusetts,Bristol County,281198.9,310261.21,140772,US,71
+73,c3deeb5b-66ef-b1bf-0202-0e5ce485d30f,2004-04-21,white,nonhispanic,F,Hopkinton  Massachusetts  US,514 Walter Frontage road Suite 33,Ocean Bluff-Brant Rock,Massachusetts,Plymouth County,78968.58,98412.59,71078,US,20
+74,d3526c15-a6eb-ec69-d2ce-7f4dfac7fc5e,2008-03-02,black,nonhispanic,F,Gloucester  Massachusetts  US,236 Beer Corner,Newton,Massachusetts,Middlesex County,53399.02,3361.88,163299,US,17
+75,1c6c9d07-b38f-8fe5-fac9-0edd06a64f85,1994-07-24,white,hispanic,F,Wesley  Saint Andrew Parish  DM,287 Wisozk Green,West Brookfield,Massachusetts,Worcester County,195579.25,540391.56,95344,DM,30
+76,0bc53e6a-8820-ded4-57c5-7ccc6355354c,1976-09-21,white,nonhispanic,F,Lawrence  Massachusetts  US,873 Strosin Rapid Apt 42,Whitman,Massachusetts,Plymouth County,226219.18,522194.56,29352,US,48
+77,4569671e-ed39-055f-8e78-422b96c9896b,2013-08-10,white,nonhispanic,F,East Falmouth  Massachusetts  US,578 Dickens Camp,Arlington,Massachusetts,Middlesex County,9821.14,27142.51,58294,US,11
+78,00732e11-5e4d-37b7-01f8-929a25536862,1975-12-24,white,nonhispanic,M,Toulouse  Occitanie  FR,808 Wiza Fork Apt 53,Pittsfield,Massachusetts,Berkshire County,235654.66,753044.17,30550,FR,49
+79,5c779b5a-b6f0-2954-0c1c-9855c010d4d0,1955-10-26,white,hispanic,M,Havana  Havana  CU,1055 Konopelski Harbor,Agawam,Massachusetts,Hampden County,11447.07,232656.08,7361,CU,69
+80,8635f76c-d1ee-89fe-9051-b90c16afd70c,2012-08-05,white,nonhispanic,M,Boston  Massachusetts  US,410 Mann Trafficway Suite 50,Whitman,Massachusetts,Plymouth County,34484.56,6101.98,95075,US,12
+81,dbc4a3f7-9c69-4435-3ce3-4e1988ab6b91,1959-08-01,white,nonhispanic,F,Orleans  Massachusetts  US,315 Simonis Parade,Somerville,Massachusetts,Middlesex County,677634.54,243697.19,37098,US,65
+82,3ec070e8-7f78-6a8b-12d7-9ee9808012e0,1963-01-05,black,nonhispanic,M,Woburn  Massachusetts  US,571 Daugherty Vale,West Bridgewater,Massachusetts,Plymouth County,74285.04,160945.98,198442,US,62
+83,8656f713-282f-e5f6-cc7e-346a573ef3b5,2003-12-02,white,nonhispanic,M,Wellesley  Massachusetts  US,844 Spencer Landing,Hatfield,Massachusetts,Hampshire County,65721.22,7698.83,67906,US,21
+84,03bde354-de87-a404-4ab3-00edf0b184a7,2004-10-30,white,hispanic,F,Brockton  Massachusetts  US,954 Boyer Dale Suite 47,Andover,Massachusetts,Essex County,29383.72,26025.55,550030,US,20
+85,e73d2c53-6e7e-13b9-d296-460e42e6014a,1968-01-22,white,nonhispanic,F,Boston  Massachusetts  US,727 Moore Trafficway,Springfield,Massachusetts,Hampden County,754029.94,185658.8,110873,US,57
+86,5e0a6984-38d7-c604-f55f-f1de5e933768,1986-07-04,white,nonhispanic,F,North Reading  Massachusetts  US,720 O'Keefe Arcade,Newton,Massachusetts,Middlesex County,169293.06,801407.9,86384,US,38
+87,5358446e-e631-c640-5880-c6cf99dc8bed,1973-10-11,white,nonhispanic,F,Boston  Massachusetts  US,848 Okuneva Skyway Suite 61,Worcester,Massachusetts,Worcester County,317350.84,878644.32,148000,US,51
+88,bd2a8021-2868-6dd2-c17f-bfd7c36fe247,1927-03-20,other,nonhispanic,F,Chelmsford  Massachusetts  US,672 Quigley Dale,West Tisbury,Massachusetts,Dukes County,1157946.95,1267791.2,90297,US,98
+89,780fe740-20fb-07ee-1fbd-3fafa9f5df91,2009-08-20,white,nonhispanic,M,Taunton  Massachusetts  US,539 Grady Fork Suite 43,Leominster,Massachusetts,Worcester County,3969.77,55724.98,24218,US,15
+90,87cb7301-9d12-b048-416d-2b290eed1bde,1971-01-01,white,hispanic,F,Santiago de los Caballeros  Santiago  DO,443 Nicolas Overpass,Stoneham,Massachusetts,Middlesex County,351795.32,242319.5,86024,DO,54
+91,081abe99-9641-1098-8903-61de9e66d9fa,2014-07-30,asian,nonhispanic,M,Carlisle  Massachusetts  US,1059 Gutkowski Rapid,West Concord,Massachusetts,Middlesex County,16466.36,15385.46,127881,US,10
+92,bf40c2b4-4f0d-10cf-a2bb-cbb235e4e437,1983-05-07,black,hispanic,F,Port-au-Prince  Haiti  HT,793 Reichel Extension Unit 71,Boston,Massachusetts,Suffolk County,134192.06,216856.57,28551,HT,41
+93,f07e12ed-dff4-6161-3d23-8f043c4e316d,1980-01-31,white,nonhispanic,F,Bellingham  Massachusetts  US,782 Abbott Center Apt 25,Auburn,Massachusetts,Worcester County,195830.78,252755.04,124361,US,45
+94,d27273f0-f62d-7d7f-746d-4565f35cf176,1946-01-24,white,nonhispanic,M,Lowell  Massachusetts  US,957 Rohan Vista,Greenfield,Massachusetts,Franklin County,580721.05,900011.77,82922,US,79
+95,de480ca4-19a6-f2e0-7922-1c51e7c8dcb8,2017-01-08,white,nonhispanic,M,Boston  Massachusetts  US,896 Jerde Stravenue Suite 72,Waltham,Massachusetts,Middlesex County,7380.74,12883.79,33617,US,8
+96,655baba7-47ed-22ac-2093-1196ebb44928,1927-03-20,other,nonhispanic,F,Greenfield  Massachusetts  US,161 Hammes Union Unit 6,West Tisbury,Massachusetts,Dukes County,1068387.92,526259.59,90297,US,98
+97,21d26e56-f4e6-779d-e0d1-bdd371d8e4aa,2001-08-18,native,nonhispanic,F,Spencer  Massachusetts  US,811 Corwin Trailer,North Brookfield,Massachusetts,Worcester County,61044.44,15353.28,36480,US,23
+98,45b89342-dc05-8e57-8eee-9ed68ec42378,1984-08-24,white,nonhispanic,M,Framingham  Massachusetts  US,810 Wolf Pathway,Malden,Massachusetts,Middlesex County,36010.63,472861.9,25909,US,40
+99,8935bc21-92f0-a4ad-d8b4-bcdd5b92204a,1979-02-22,white,nonhispanic,M,Milford  Massachusetts  US,430 Bashirian Ramp Apt 22,Athol,Massachusetts,Worcester County,150844.39,0.0,75521,US,46
+100,2ce5c76d-8d65-1347-33c5-7d0cbf3f1b2b,2014-12-28,white,nonhispanic,F,Somerville  Massachusetts  US,1039 Lockman Bay,Dracut,Massachusetts,Middlesex County,31061.17,640.19,68873,US,10
+101,f07fac6b-0a84-7874-f0d2-e1a1e1cffa09,1955-05-23,white,nonhispanic,M,Orange  Massachusetts  US,823 Hintz Trail,Whitinsville,Massachusetts,Worcester County,217144.14,190127.82,83045,US,69
+102,2d799deb-df07-0c4a-8692-42cce7595251,2006-02-13,white,nonhispanic,F,West Springfield  Massachusetts  US,1095 Will Ville,Springfield,Massachusetts,Hampden County,4416.06,73077.68,12128,US,19
+103,5032b4e1-c68e-b135-30ac-ad7e386b619b,1972-09-01,white,nonhispanic,M,Boston  Massachusetts  US,293 Aufderhar Ferry,Dennis,Massachusetts,Barnstable County,423120.92,340229.49,38286,US,52
+104,d6cc7569-5f31-9648-ec6a-e1162b32b183,2008-06-07,white,nonhispanic,F,North Attleborough  Massachusetts  US,905 Smitham Bay,Braintree,Massachusetts,Norfolk County,56729.23,13905.95,94205,US,16
+105,37713015-cfb5-bf1a-70eb-970101f32341,2018-04-09,white,nonhispanic,F,Holliston  Massachusetts  US,376 Ullrich Knoll Unit 86,Fairhaven,Massachusetts,Bristol County,15979.43,4193.28,35486,US,7
